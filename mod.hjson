@@ -1,0 +1,7 @@
+name: "expertmode"
+displayName: "Mindustry Expert Mode"
+author: "[yellow]RT[cyan]Omega"
+description: "[sky]A Completely new gamemode!"
+version: "0.1"
+minGameVersion: 120
+hidden: true
