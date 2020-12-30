@@ -1,2 +1,1 @@
-# MindustryExpert
-An Expert mode for true god players.
+# Not Done Yet
